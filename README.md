@@ -2,7 +2,7 @@
 [![Typing
     SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+a+Tamires+Soares+:%29)](https://git.io/typing-svg)
 
-  <div align="center">
+  <div>
         <img width="49%" height="195px"
             src="https://github-readme-stats.vercel.app/api?username=tamiressoares480&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117"
             alt="Tamires Saores github stats" />
@@ -25,5 +25,3 @@
 </div>
 
 ![Snake animation](https://github.com/tamiressoares480/tamiressoares480/blob/output/github-contribution-grid-snake.svg)
-
-   
