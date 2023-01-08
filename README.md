@@ -1,4 +1,4 @@
-<img align="right" alt="Tami-pic" height="300" style="border-radius:50px;" src="avatar.gif">
+<img align="right" alt="Tami-pic" height="300" style="border-radius:50px;" src="new_avatar.gif">
 
 # Oieee, seja bem vindo(a)! 😉
 
