@@ -36,6 +36,6 @@
  </div>
 
 
-
+![Snake animation](https://github.com/tamiressoares480/tamiressoares480/blob/output/github-contribution-grid-snake.svg)
 
 
