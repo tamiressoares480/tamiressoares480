@@ -5,7 +5,8 @@
 - 💻 Iniciando como Desenvolvedora Front-end
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 - 🌱 Tenho estudado Javascript, SASS e React
-- 🧶 Artesã nas horas vagas ❤🧸
+- 🧶 Artesã nas horas vagas 🧸
+- 🎮 Apaixonada por jogos MMORPG: FFXIV ❤ WOW
 
 
 ### Redes Sociais:
