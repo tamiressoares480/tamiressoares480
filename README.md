@@ -1,4 +1,4 @@
-<img align="right" alt="Tami-pic" height="150" style="border-radius:50px;" src="avatar.gif">
+<img align="right" alt="Tami-pic" height="300" style="border-radius:50px;" src="avatar.gif">
 
 # Oieee, seja bem vindo(a)! 😉
 
@@ -27,13 +27,13 @@
 
 ### GitHub Stats:
 
-  <div>
-        <img width="49%" height="195px"
+ <div>
+    <img width="49%" height="195px"
             src="https://github-readme-stats.vercel.app/api?username=tamiressoares480&show_icons=true&count_private=true&theme=aura&hide_border=true&bg_color=0d1117"
             alt="Tamires Saores github stats" />
-        <img align="right" width="41%" height="195px"
+   <img align="right" width="41%" height="195px"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamiressoares480&layout=compact&theme=aura&hide_border=true&bg_color=0d1117" />
-    </div>
+ </div>
 
 
 
