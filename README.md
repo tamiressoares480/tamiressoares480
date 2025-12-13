@@ -3,7 +3,7 @@
 # Oieee, seja bem vindo(a)! 😉
 
 - 💻 Iniciando como Desenvolvedora Front-end
-- 🎓 Graduada em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduada em Sistema de Informação
 - 🌱 Tenho estudado Javascript, SASS e React
 - 🧶 Artesã nas horas vagas 🧸
 - 🎮 Apaixonada por jogos MMORPG: FFXIV ❤ WOW
